@@ -5,6 +5,7 @@ Interesting links:
 - https://flowgpt.com/
 - https://github.com/f/awesome-chatgpt-prompts
 - https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
+- https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.900698/full
 ---------------------------------------------------------------------------------------------------
 El CETO (Contexto, Especificidad, Tono y Objetivo) en ingeniería de prompts es una guía para crear instrucciones efectivas y claras para modelos de lenguaje como ChatGPT. 
 
@@ -290,6 +291,13 @@ En la próxima lección, se discutirán parámetros como longitud máxima y secu
 En la próxima lección, se explorarán los presets y ejemplos disponibles.
 
 ---------------------------------------------------------------------------------------------------
+**Trucos/Consejos/Tips**
+**Resumen y puntos clave**: Pide a ChatGPT que resuma el texto y destaque puntos importantes.
+
+**Audio resumen**: Usa ChatGPT con extensiones como "ChatGPT voice control" para escuchar resúmenes de texto.
+
+**Elementos de acción / Pinpoint action items**: Solicita a ChatGPT identificar acciones aplicables a tu rol, como "business analyst".
+**Ejemplo**: (Has pasado un texto previamente y le mandas el siguiente prompt) "I need advice on how this article may apply to my role as business analyst for a mid-sized business. Tell me if anything from this article may apply to me personally"
 
 ---------------------------------------------------------------------------------------------------
 
