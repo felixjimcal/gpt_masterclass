@@ -1,0 +1,21 @@
+Create a summary for the following article:
+Article: New Zealand has extended its nationwide lockdown until at least Tuesday as it tries to contain an outbreak of the Delta variant of Covid-19. Prime Minister Jacinda Ardern said there were 35 new cases on Friday, bringing the total to 107. She said the lockdown was having an impact, but more time was needed to ensure the virus was under control. New Zealand had been largely free of Covid-19 for months until an infected traveler from Australia arrived earlier this month. 
+
+
+
+Create a summary for this article:
+Article Example: A massive fire has destroyed dozens of homes in a remote village in northern Canada. The blaze, which started on Saturday night, was fueled by strong winds and dry conditions. No casualties have been reported, but many residents have been evacuated to nearby towns. Summary: A wind-driven fire razes many homes in a Canadian village and forces evacuations.
+
+Summary Example: There was a massive Fire in Canada. 
+
+Article: New Zealand has extended its nationwide lockdown until at least Tuesday as it tries to contain an outbreak of the Delta variant of Covid-19. Prime Minister Jacinda Ardern said there were 35 new cases on Friday, bringing the total to 107. She said the lockdown was having an impact, but more time was needed to ensure the virus was under control. New Zealand had been largely free of Covid-19 for months until an infected traveler from Australia arrived earlier this month.
+
+Summary:
+(Provide Headline in similar style like Example)
+
+
+Article Example 2: Scientists have discovered a new species of dinosaur in Argentina. The fossil, which belongs to a group of herbivorous sauropods, is estimated to be 98 million years old. The researchers say the dinosaur was one of the largest animals that ever lived on Earth, measuring about 40 meters long and weighing 70 tons.
+
+Summary Example 2: A new fossil reveals a giant herbivorous dinosaur.
+
+Article: New Zealand has extended its nationwide lockdown until at least Tuesday as it tries to contain an outbreak of the Delta variant of Covid-19. Prime Minister Jacinda Ardern said there were 35 new cases on Friday, bringing the total to 107. She said the lockdown was having an impact, but more time was needed to ensure the virus was under control. New Zealand had been largely free of Covid-19 for months until an infected traveler from Australia arrived earlier this month.
