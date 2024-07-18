@@ -1,0 +1,18 @@
+Context:
+To gather insights for improving a Professional Development Platform, personalized emails will ask one or two specific questions related to the recipient's occupation and request feedback.
+I want to create personalized emails appealing to different people in different industries. 
+I give a you csv file with the name of the person and their occupation.
+
+Task:
+Generate an short email uniquely for each person. 
+It should be generated uniquely and tailord to their profession.
+Adjust the tone of voice and the whole email to be unique and tailored to their occupation.
+
+Make sure to read the whole csv file and add the answers into a new column in the dataframe.
+Always save the full detailed answers to the dataframe, never summarize or shorten them. 
+In the end double-check that the emails sound good and then I want to download the file with the answers. 
+
+
+
+About the email:
+Short and concise asking about a few things about their occupation and asking in a unique way for feedback that is also tailored to their occupation. For each email use a specific tone of voice depending on their occupation.
