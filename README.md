@@ -297,6 +297,7 @@ En la próxima lección, se explorarán los presets y ejemplos disponibles.
 **Audio resumen**: Usa ChatGPT con extensiones como "ChatGPT voice control" para escuchar resúmenes de texto.
 
 **Elementos de acción / Pinpoint action items**: Solicita a ChatGPT identificar acciones aplicables a tu rol, como "business analyst".
+
 **Ejemplo**: (Has pasado un texto previamente y le mandas el siguiente prompt) "I need advice on how this article may apply to my role as business analyst for a mid-sized business. Tell me if anything from this article may apply to me personally"
 
 ---------------------------------------------------------------------------------------------------
