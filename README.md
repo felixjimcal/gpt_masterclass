@@ -91,7 +91,30 @@ Sequential Prompting = Steps by steps
 
 Este método permite al modelo ayudar a estructurar la información relevante antes de componer la respuesta final.
 ---------------------------------------------------------------------------------------------------
+**ASk for images**
+- Como representarías la tenacidad?
+![image](https://github.com/user-attachments/assets/da39c12e-d9f4-49fe-befa-d4d4f6bfc902)
+- ¿Y la lectura? no libros, sinó el poder de adquirir conocimiento y felicidad con la lectura
+![image](https://github.com/user-attachments/assets/14112a3a-6ca1-4b09-898d-3532431101a9)
+- Ahora juntalos, tenacidad y lectura
+![image](https://github.com/user-attachments/assets/09261493-7436-47c8-bf1e-3edb1e7edf44)
+- ¿Conoces la teoría de Carl Jung de los símbolos?
+- Sí, Carl Jung desarrolló la teoría de los símbolos como parte de su psicología analítica. Según Jung, los símbolos son representaciones inconscientes de arquetipos, que son patrones universales y recurrentes que surgen en el inconsciente colectivo. Los símbolos ayudan a expresar contenidos psíquicos profundos y a conectar la mente consciente con el inconsciente.
+- ¿Qué símbolo representaría la lectura y cuál la tenacidad y cual podría represaentar a ambos ?
 
+**Símbolos según Carl Jung:**
+
+- **Lectura:** El "libro abierto" es un símbolo común de la lectura, representando conocimiento, aprendizaje y sabiduría.
+
+- **Tenacidad:** El "roble" simboliza fuerza y perseverancia debido a su robustez y capacidad para soportar adversidades.
+
+- **Ambos (lectura y tenacidad):** La "antorcha" podría representar ambos, simbolizando la luz del conocimiento y la perseverancia en la búsqueda de la verdad, ya que ilumina el camino en la oscuridad.
+- representa la antorcha, en un tatuaje en blanco y negro
+- ![image](https://github.com/user-attachments/assets/64b286f7-6c41-41a1-a502-f755ce6ff782)
+- Hazla más terrorifica
+- ![image](https://github.com/user-attachments/assets/2940ce84-ad28-48fc-a2d9-b26955ea0332)
+- DALL·E 2024-07-18 11.26.42 - Tattoo design in black and white of a torch with a more terrifying appearance. The flame is dark and jagged, with ghostly faces and twisted shapes eme.webp
+- 
 ---------------------------------------------------------------------------------------------------
 
 ---------------------------------------------------------------------------------------------------
