@@ -4,6 +4,7 @@ Notes from the course: https://www.udemy.com/course/chatgpt-complete-masterclass
 Interesting links:
 - https://flowgpt.com/
 - https://github.com/f/awesome-chatgpt-prompts
+- https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
 ---------------------------------------------------------------------------------------------------
 El CETO (Contexto, Especificidad, Tono y Objetivo) en ingeniería de prompts es una guía para crear instrucciones efectivas y claras para modelos de lenguaje como ChatGPT. 
 
@@ -114,9 +115,9 @@ Este método permite al modelo ayudar a estructurar la información relevante an
 - Hazla más terrorifica
 - ![image](https://github.com/user-attachments/assets/2940ce84-ad28-48fc-a2d9-b26955ea0332)
 - DALL·E 2024-07-18 11.26.42 - Tattoo design in black and white of a torch with a more terrifying appearance. The flame is dark and jagged, with ghostly faces and twisted shapes eme.webp
-- 
 ---------------------------------------------------------------------------------------------------
-
+**Bulking Generations**
+- Check folder with same name
 ---------------------------------------------------------------------------------------------------
 
 ---------------------------------------------------------------------------------------------------
